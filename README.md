@@ -47,7 +47,7 @@ Al ser una PWA instalable, no necesitas descargar ejecutables ni archivos pesado
 
 ## 👤 Creador y Contacto
 
-Este proyecto ha sido desarrollado con dedicación por **Johstin**, un apasionado estudiante de software que busca optimizar los procesos de aprendizaje autónomo mediante tecnología abierta.
+Este proyecto ha sido desarrollado con dedicación por **Johstin** con ayuda de **IA**, estudiante de software que busca optimizar los procesos de aprendizaje autónomo mediante tecnología abierta.
 
 Si tienes comentarios, sugerencias o deseas reportar un error, puedes escribir a:
 * 📧 **Correo Electrónico Profesional:** [johstinquinto12@gmail.com](mailto:johstinquinto12@gmail.com)
