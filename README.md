@@ -54,3 +54,5 @@ Si tienes comentarios, sugerencias o deseas reportar un error, puedes escribir a
 
 ---
 *Desarrollado con fines educativos y de código abierto.*
+---
+*version: 1.0*
